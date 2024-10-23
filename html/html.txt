@@ -1,0 +1,9 @@
+<html>
+<head><title>This is my first html page</title>
+<body>
+
+This is my first html page created <b> This is appear in bold </b>
+
+</body>
+</head>
+</html>
